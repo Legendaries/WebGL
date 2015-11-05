@@ -1,0 +1,25 @@
+body{
+	background:url("wallpaper_gold_rush.jpg") repeat;
+	padding-top: 40px;
+}
+li{
+	color: rgba(100,100,0,1);
+}
+h2{
+	color: rgba(100,100,0,1);
+}
+a{
+	border-right: 10px solid rgba(0,0,0,0);
+	color: rgba(0,255,0,0.75);
+}
+a:hover{
+	color: rgba(255,0,0,0.75);
+}
+h1{
+	color: rgba(255,0,0,0.75);
+}
+p{
+	padding: 0px;
+	margin: 0px;
+	color: rgba(0,255,0,0.5);
+}
